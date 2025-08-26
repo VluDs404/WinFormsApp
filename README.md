@@ -1,3 +1,3 @@
-afafasfasfafafasfasfas
-**afasfasfasfasfa**
-- fafaasfasf
+Данная **библиотека** является оберткой над API Search.
+Используется многослойная архитектура, состоящая из слоя 
+- API где выполняются вызовы
